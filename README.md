@@ -1,1 +1,1 @@
-# bsbseguranca
+# bsb-seguranca
